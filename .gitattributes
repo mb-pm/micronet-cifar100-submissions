@@ -1,0 +1,2 @@
+source/outputs/quant_bin_simpnet/best_model filter=lfs diff=lfs merge=lfs -text
+source/outputs/quant_bin_simpnet_plus/best_model filter=lfs diff=lfs merge=lfs -text
